@@ -1,0 +1,2 @@
+# LinkTrait
+PHP Link Trait
